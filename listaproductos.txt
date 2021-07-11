@@ -1,0 +1,13 @@
+product	vegan
+frac	0
+notmayo	1
+kraft	0
+notmilk	1
+quilque	0
+riku	1
+veggie	1
+mister	1
+norburger	1
+tika	1
+helmmans	0
+donuts	0
